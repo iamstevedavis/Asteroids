@@ -1,0 +1,16 @@
+﻿Fix bullet origin location
+	-Rotation on bullet needs to be same as ship?
+Create enemy ship
+	-Implement ship flying across screen
+		-Partially implemented.
+		-Not sure what is wrong...
+		-Do we need another manager like Enemy manager or something?
+	-Small
+		-Needs to shoot at player
+	-Large
+		-Shoot at random
+Help Screen
+	-Bug where it prints the same line over and over
+Pause Screen
+	-Needs to have option for new game
+Small Asteroid Trajectories
